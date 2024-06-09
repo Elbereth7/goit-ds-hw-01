@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "goit-ds-hw-01"
 version = "0.1.0"
-description = "Module 1. Python Development. Docker"
-authors = ["Nataliya Yakovenko"]
+description = "This is a personal assistant bot. Allows to create and handle a contact book which contains contacts with referring phone numbers and birthday dates. It also provides the upcoming birthdays information."
+authors = ["Elbereth7 <natalia.yakov@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.12.2"
+python = "^3.10"
 
 
 [build-system]
